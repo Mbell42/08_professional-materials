@@ -17,3 +17,5 @@ Resources used:
 Progress:
 ------------
 2020.02.18.2245 - Initial Commit.  Initialized readme.me, and set up folder structure.  Created index.html, contact.html, portfolio.html, style.css, and logic.js.
+
+2020.02.18.2315 - Added plan.txt, and updated instructions.md to insructions.txt.  Updated my LinkedIn Profile with links to my GitHub Profile and Portfolio site.  Updated GitHub Bio. 
