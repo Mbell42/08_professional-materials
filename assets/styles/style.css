@@ -46,8 +46,11 @@ body {
 .panel-heading {
     margin:auto;
 }
-.mainText {
+#mainText {
     margin:auto;
+    padding: 8px;
+    background-color: rgba(245, 245, 245, 0.753);
+    border-style: groove;
 }
 
 
@@ -56,7 +59,16 @@ body {
     background-color: rgb(150, 148, 148);
 }
 .footerText {
-    color: white;
+    color: wheat;
 }
+
+
+/* page specific styles */
+    /* Contact page form styles */
+    
+    #formMessage {
+        height: 200px;
+    }
+   
 
 

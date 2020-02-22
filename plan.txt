@@ -1,29 +1,29 @@
-01 - portfolio
+Current 01 - portfolio
 	Current - add content to pages
 		Current - Create within BootStrap Grid, do Not forget to add @media breakpoints if needed.
-	- add css styles 
-	- research linking to PDF files for link ot resume PDF.
+	Current - add css styles 
+	Todo - research linking to PDF files for link ot resume PDF.
 
-	- Featured Project and 2 homeworks
-		- Weather App
-		- Work Day Scheduler
+	Done - Featured Project and 2 homeworks
+		Done - Weather App
+		Done - Work Day Scheduler
 
 
-02 - Weather App
+Done 02 - Weather App
 	Done - Create/fix, then upload to repository
 	
 	- Work Day Scheduler
 	Done - Create/fix, then upload to repositor
 
 
-03 - GitHub Profile
+Done 03 - GitHub Profile
 	Done - Update Bio
-	- Update Pins
+	Done - Update Pins
 
 
-04 - Resume
+Current 04 - Resume
 	Current - Check for any needed updates for job types wanted
 
 
-05 - LinkedIn Profile
+Done 05 - LinkedIn Profile
 	Done - Links to GitHub Profile and Portfolio
