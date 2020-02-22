@@ -24,3 +24,4 @@ Progress:
 
 2020.02.21.1630 - I updated index.html to include assimilated portions of code from my previous homework assignment '02_responsive-portfolio', as a starting point.  I added an images folder to the folder structure, containing images that were used in '02_responsive-portfolio'. 
 
+2020.02.21.1750 - I added 'contact.html' and 'portfolio.html' within the folder 'pages'.  I then updated grid layout for 'index.html', and then copied the skeleton over to 'contact.html' and 'portfolio.html'.  For 'contact.html' I added my contact form from previous homework assignment '02_responsive-portfolio', and then updated and fixed its position in the grid layout.  I updated header, main, and footer section sizes in 'style.css'. 

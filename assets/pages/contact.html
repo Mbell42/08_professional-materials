@@ -10,7 +10,7 @@
     <!-- Link to the Latest compiled and minified BootStrap CSS CDN -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Link to the external styles sheet -->
-    <link rel="stylesheet" type="text/css" href="./assets/styles/style.css">
+    <link rel="stylesheet" type="text/css" href="../styles/style.css">
     
     <title>About Me</title>
 </head>
@@ -28,9 +28,9 @@
                 <div class="col-md-4">&nbsp;</div>
                 <div class="col-md-4 collapse navbar-collapse" id="navbarResponsive"></div>
                     <ul class="nav nav-pills">
-                        <li class="nav-item active"><a role="presentation" class="nav-link active" href="./index.html">Main</a></li>
-                        <li class="nav-item"><a role="presentation" class="nav-link" href="./assets/pages/contact.html">Contact</a></li>
-                        <li class="nav-item"><a role="presentation" class="nav-link" href="./assets/pages/portfolio.html">Portfolio</a></li>
+                        <li class="nav-item"><a role="presentation" class="nav-link active" href="../../index.html">Main</a></li>
+                        <li class="nav-item active"><a role="presentation" class="nav-link" href="./contact.html">Contact</a></li>
+                        <li class="nav-item"><a role="presentation" class="nav-link" href="./portfolio.html">Portfolio</a></li>
                     </ul>  
                 </div>
             </row>
@@ -48,38 +48,52 @@
             </row>
             <!-- Foreground section that contains page title, and main content for the page. -->
             <row class="row">
+                <!-- Top Blank Space -->
                 <div class="col-md-2">&nbsp;</div>
+                <!-- Main Panel -->
                 <div class="col-md-8">
                     <div class="panel">
                         <row class="row">
-                            <h2 class="panel-heading text-center">About Me</h2>
+                            <h2 class="panel-heading text-center">Contact</h2>
                             <hr>
                         </row>
                         <row class="row">
                             <div class="col-md-1">&nbsp;</div>
-                            <div class="col-md-5">
-                                <img class="media" id="myPic" src="./assets/images/mbell-portrait.png" alt="Matthew Bell" height="350" width="350">
-                            </div> 
-                            <div class="col-md-5">
-                                <p class="text-left" id="mainText">
-                                    I am a College Student attending UCSD Extension Coding Bootcamp with a Bachelor’s Degree
-                                    focused in Bachelors of Science , Media Arts (3D Animation) from Platt College-San Diego. I am
-                                    currently seeking part time employment while attending college.
-                                    <br><br>I have professional experience as a Quality Assurance Specialist as well as a VFX Compositor
-                                    with a demonstrated history of working in both the computer games industry and the film industry.
-                                    My bag of skills includes, but is not limited to; 3D Charater Animation, VFX Compositing, Databases,
-                                    Data Collection, and both Quality Control/Assurance.
-                                    Top among my goals is to work in a team environment, where collaboration allows for the creation of
-                                    solutions to new and difficult problems, and where the combined value of the product is increased
-                                    beyond the sum of its parts.
-                                </p>
+                            <div class="col-md-10">
+                                <div class="submitForm">
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Name:</span>
+                                        <input class="form-control myForm" type="text" name="Name" placeholder="Example Name">
+                                    </form>
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Email:</span>
+                                        <input class="form-control myForm" type="text" name="Email" placeholder="Example@yahoo.com">
+                                    </form>
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Message:</span>
+                                        <input class="form-control myForm" id="formMessage" type="text" name="Message" placeholder="Input message here...">
+                                    </form>
+                                </div>
                             </div>
                             <div class="col-md-1">&nbsp;</div>
+                        </row>
+                        <!-- This is the Submit button for the above form.-->
+                        <row class="row">
+                            <div class="col-md-1">&nbsp;</div>
+                            <div class="col-md-1">
+                                <div class="formButton">
+                                    <div class="btn-group" role="group">
+                                        <button type="button" class="btn btn-default" id="submitButton">Submit</button>
+                                    </div>
+                                </div>       
+                            </div>
+                            <div class="col-md-10">&nbsp;</div>
                         </row>
                     </div>
                 </div>
                 <div class="col-md-2">&nbsp;</div>
             </row>
+            <!-- Bottom Blank Space -->
             <row class="row">
                 <div class="col-md">&nbsp;</div>
             </row>
