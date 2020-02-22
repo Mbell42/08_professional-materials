@@ -29,3 +29,5 @@ Progress:
 2020.02.21.2353 - For '.html' pages and 'style.css', I updated the header/navbar and footer sections, such that the position of my name and the navpills are corrected, and the height of the navbar and footer are adjusted.
 
 2020.02.22.0051 - For '.html' pages and 'style.css', I added contact details, and setup sections for links to my GitHub, LinkedIn, and Vimeo profiles.  I checked column counts in each row, and fixed any that did not add up to 12.
+
+2020.02.22.0156 - For '.html' pages, I updated classes and comments.  For 'portfolio.html', I added card structure within the main panel, filling with lorem ipsum placeholder info.
