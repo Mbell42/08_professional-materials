@@ -19,3 +19,6 @@ Progress:
 2020.02.18.2245 - Initial Commit.  Initialized readme.me, and set up folder structure.  Created index.html, contact.html, portfolio.html, style.css, and logic.js.
 
 2020.02.18.2315 - Added plan.txt, and updated instructions.md to insructions.txt.  Updated my LinkedIn Profile with links to my GitHub Profile and Portfolio site.  Updated GitHub Bio. 
+
+2020.02.21.1607 - Updated plan.txt to reflect recent pivot; marked new tasks and completed tasks.  For this homework's dependencies (the two exemplary homeworks to be displayed), I updated/fixed and pushed my changes to both the Weather App and Work Day Scheduler previous homework assignments.  Researched Bootstrap examples for grid structure, head/nav/jumbotron, sidebar, and sticky footer elements.
+
