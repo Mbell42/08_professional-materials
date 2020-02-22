@@ -34,19 +34,20 @@
         .bg {
             width: fit-content;
             height: fit-content;
-            min-height: calc(100vh - 240px); 
+            min-height: calc(100vh - 230px); 
             background-image: url("../images/blue-snow.png");
         }
 
     /* main styles */
         .panel {
             background-color: rgb(150, 148, 148);
+            margin-top: 20px;
             padding-bottom: 20px;
         }
         .panel-heading {
             margin:auto;
         }
-        #mainText {
+        .mainText {
             margin:auto;
             padding: 8px;
             background-color: rgba(245, 245, 245, 0.753);
@@ -56,9 +57,9 @@
 
     /* footer styles */
         .footer {
-            height: 50px;
             background-color: rgb(150, 148, 148);
         }
+
         .footerText {
             color: wheat;
         }

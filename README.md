@@ -27,3 +27,5 @@ Progress:
 2020.02.21.1902 - I added 'contact.html' and 'portfolio.html' within the folder 'pages'.  I then updated grid layout for 'index.html', and then copied the skeleton over to 'contact.html' and 'portfolio.html'.  For 'contact.html' I added my contact form from previous homework assignment '02_responsive-portfolio', and then updated and fixed its position in the grid layout.  I updated header, main, and footer section sizes in 'style.css'. For each 'html' page, I updated the position of the columns in the headers.
 
 2020.02.21.2353 - For '.html' pages and 'style.css', I updated the header/navbar and footer sections, such that the position of my name and the navpills are corrected, and the height of the navbar and footer are adjusted.
+
+2020.02.22.0051 - For '.html' pages and 'style.css', I added contact details, and setup sections for links to my GitHub, LinkedIn, and Vimeo profiles.  I checked column counts in each row, and fixed any that did not add up to 12.
