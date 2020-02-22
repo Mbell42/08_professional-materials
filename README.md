@@ -22,3 +22,5 @@ Progress:
 
 2020.02.21.1607 - Updated plan.txt to reflect recent pivot; marked new tasks and completed tasks.  For this homework's dependencies (the two exemplary homeworks to be displayed), I updated/fixed and pushed my changes to both the Weather App and Work Day Scheduler previous homework assignments.  Researched Bootstrap examples for grid structure, head/nav/jumbotron, sidebar, and sticky footer elements.
 
+2020.02.21.1630 - I updated index.html to include assimilated portions of code from my previous homework assignment '02_responsive-portfolio', as a starting point.  I added an images folder to the folder structure, containing images that were used in '02_responsive-portfolio'. 
+
