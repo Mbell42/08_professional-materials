@@ -1,74 +1,76 @@
-/* Universal styles */    
-body {
-        background-color: rgb(150, 148, 148);
-}
+/* UNIVERSAL STYLES */    
+    body {
+            background-color: rgb(150, 148, 148);
+    }
 
-.containerHead {
-    height: 40px;
-}
+    .navbar {
+        height: 90px;
+    }
 
+    /* Header styles */
+        .navbar-header {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top:none;
+            width: 230px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: wheat;
+        }
 
-/* Header styles */
-.navbar-header {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:none;
-    width: fill;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: wheat;
-}
+        .nav-pills {
+            margin-top: 20px;
+            margin-bottom: none;
+        }
 
-.nav-pills {
-    margin-top: auto;
-    margin-bottom: none;
-}
-
-.nav-link {
-    font-family: Arial, Helvetica, sans-serif;
-    color: wheat;
-    text-decoration: none;
-    margin-left: 15px;
-}
-
-
-/* bg styles */
-.bg {
-    width: fit-content;
-    height: fit-content;
-    min-height: calc(100vh - 240px); 
-    background-image: url("../images/vintage-wallpaper.png");
-}
-
-/* main styles */
-.panel {
-    background-color: rgb(150, 148, 148);
-}
-.panel-heading {
-    margin:auto;
-}
-#mainText {
-    margin:auto;
-    padding: 8px;
-    background-color: rgba(245, 245, 245, 0.753);
-    border-style: groove;
-}
+        .nav-link {
+            font-family: Arial, Helvetica, sans-serif;
+            color: wheat;
+            text-decoration: none;
+            margin-left: 15px;
+        }
 
 
-/* footer styles */
-.footer {
-    background-color: rgb(150, 148, 148);
-}
-.footerText {
-    color: wheat;
-}
+    /* bg styles */
+        .bg {
+            width: fit-content;
+            height: fit-content;
+            min-height: calc(100vh - 240px); 
+            background-image: url("../images/blue-snow.png");
+        }
+
+    /* main styles */
+        .panel {
+            background-color: rgb(150, 148, 148);
+            padding-bottom: 20px;
+        }
+        .panel-heading {
+            margin:auto;
+        }
+        #mainText {
+            margin:auto;
+            padding: 8px;
+            background-color: rgba(245, 245, 245, 0.753);
+            border-style: groove;
+        }
 
 
-/* page specific styles */
+    /* footer styles */
+        .footer {
+            height: 50px;
+            background-color: rgb(150, 148, 148);
+        }
+        .footerText {
+            color: wheat;
+        }
+
+
+
+/* PAGE-SPECIFIC STYLES */
     /* Contact page form styles */
     
-    #formMessage {
-        height: 200px;
-    }
-   
+        #formMessage {
+            height: 200px;
+        }
+    
 
 
