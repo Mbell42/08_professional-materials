@@ -31,3 +31,5 @@ Progress:
 2020.02.22.0051 - For '.html' pages and 'style.css', I added contact details, and setup sections for links to my GitHub, LinkedIn, and Vimeo profiles.  I checked column counts in each row, and fixed any that did not add up to 12.
 
 2020.02.22.0156 - For '.html' pages, I updated classes and comments.  For 'portfolio.html', I added card structure within the main panel, filling with lorem ipsum placeholder info.
+
+2020.02.22.2158 - For '.html' pages, I updated link hrefs to point towards their correct destinations, and for 'portfolio.html', I added images for featured projects, and adjusted their sizes to fit the text-width in their respective columns.  For '.html' pages, I updated border styles for 'p' tags.  I then updated links to open to a new tab.  I then began tinkering with background and text color combinations.  I then updated img-sizes to be square and cleaned up unused imgs in the img folder. 
